@@ -2,8 +2,8 @@ import { useEffect, useRef } from 'react';
 import { useAppStore } from '../store/useAppStore';
 
 const TRACKS = [
-  "https://raw.githubusercontent.com/heil-kaizen/AnimeWar/main/assets/Death%20Note%20OST%201%20-%2003%20Light's%20Theme.mp3",
-  "https://raw.githubusercontent.com/heil-kaizen/AnimeWar/main/assets/Kaibutsu%20(Monster)%20-%20BEASTARS%20S2%20OP%20%5BPiano%5D%20%20YOASOBI.mp3"
+  "https://raw.githubusercontent.com/heil-kaizen/AnimeWar/main/assets/Parasyte%20-%20Next%20to%20You%20(Yousko%20Remix).mp3",
+  "https://raw.githubusercontent.com/heil-kaizen/AnimeWar/main/assets/Death%20Note%20OST%201%20-%2003%20Light's%20Theme.mp3"
 ];
 
 export default function AudioPlayer() {
